@@ -1,0 +1,30 @@
+{
+  "name": "eslint-plugin-use-client-t3",
+  "version": "1.0.0",
+  "description": "An Eslint plugin to disallow client directives in T3 stack with tRPC",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdSadiqMd/eslint-plugin-use-client-t3.git"
+  },
+  "keywords": [
+    "eslint",
+    "trpc",
+    "t3",
+    "stack",
+    "eslint-plugin"
+  ],
+  "author": "Sadiq Mohammad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MdSadiqMd/eslint-plugin-use-client-t3/issues"
+  },
+  "homepage": "https://github.com/MdSadiqMd/eslint-plugin-use-client-t3#readme",
+  "dependencies": {
+    "eslint": "^9.10.0"
+  }
+}
